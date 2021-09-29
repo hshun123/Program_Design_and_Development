@@ -1,0 +1,14 @@
+# Ignore the build directory.
+build
+# Ignore the html and latex
+docs/html/*
+docs/latex/*
+
+*.o
+*.out
+*.pvt
+/docs/html/*
+/docs/latex/*
+
+# OSX automatically includes these, so ignore them as well.
+.DS_Store

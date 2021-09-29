@@ -1,0 +1,7 @@
+*.o
+*.exe
+*.csv
+*.out
+*.pvt
+/docs/html/*
+/docs/latex/*
