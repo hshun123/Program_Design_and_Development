@@ -56,4 +56,9 @@ http://127.0.0.1:<port_number>/web_graphics/project.html
 
 - `[path_to_cpplint]/cpplint/cpplint-cse.sh --root=[path_target_dir] [file_name]`
 
+### Project Description
+
+- '/src/mainpage.h'
+* If your desktop not allow to open doxygen please refer to this mainpage.h file
+
 
